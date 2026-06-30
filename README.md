@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:88CCCA,100:FF63C3&height=200&section=header&text=Tam%20Thien%20Nguyen&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20%26%20Embedded%20Engineer&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF63C3,100:88CCCA&height=160&section=header" width="100%" alt="header"/>
+
+<h1 align="center">Tam Thien Nguyen</h1>
+<p align="center"><b>Full-Stack &amp; Embedded Engineer</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=88CCCA&background=0D1117&center=true&vCenter=true&width=640&lines=%3E+whoami;Full-Stack+%26+Embedded+Engineer;%3E+cat+focus.txt;register-level+firmware+%E2%86%92+cloud-native+backends;%3E+./now;building+DevFlow+Agent+%C2%B7+co-op+%40+Bayer+HealthCare" alt="typing"/>
